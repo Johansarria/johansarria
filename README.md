@@ -1,5 +1,6 @@
-![Metrics](https://github.com/Johansarria/Johansarria/blob/main/m%C3%A9tricas-github.svg)
+![Metrics](https://github.com/Johansarria/Johansarria/blob/main/github-metrics.svg)
 ![GitHub Actions status](https://img.shields.io/github/actions/workflow/status/Johansarria/Johansarria/metrics.yml?style=for-the-badge&logo=github-action)
+
 
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-En%20construcci%C3%B3n-blue)
