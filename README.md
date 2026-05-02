@@ -11,8 +11,8 @@
 **Mi GitHub Data**
 
 > 🔭 822+ Contribuciones en el último año
->
-> ⬇️ 0 kB usado en almacenamiento de GitHub
+> 💾 0 kB usado en almacenamiento de GitHub
+
 >
 > 💼 Buscando oportunidades
 >
