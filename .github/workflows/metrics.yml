@@ -38,5 +38,8 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 50
           plugin_people_size: 28
+          plugin_wakatime:
+          plugin_wakatime_user: johansarria
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           config_timezone: America/Bogota
           committer_message: Update metrics
