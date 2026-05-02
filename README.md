@@ -1,7 +1,6 @@
 ![Metrics](https://github.com/Johansarria/Johansarria/blob/main/github-metrics.svg)
 ![GitHub Actions status](https://img.shields.io/github/actions/workflow/status/Johansarria/Johansarria/metrics.yml?style=for-the-badge&logo=github-action)
 
-
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-545%20hrs%2035%20mins-blue)
 
@@ -52,12 +51,11 @@ Sunday     7 commits    █████░░░░░░░░░░░░░�
 Python        318 hrs 24 mins   ██████████████████████░░░░░░░░░░░░░░   58.37%
 TypeScript     94 hrs 18 mins    ████████░░░░░░░░░░░░░░░░░░░░░░░░░░   17.29%
 SQL            67 hrs 42 mins    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.41%
-
 JavaScript     55 hrs 15 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.13%
 
 💻 Editores:
+VS Code       488 hrs 31 mins   ██████████████████████░░░░░░░░░░░░░░   89.70%
 Jupyter Lab    56 hrs 04 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.30%
-Otro          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
 ```
 
 **Principalmente programo en Python**
