@@ -29,13 +29,7 @@ jobs:
           plugin_profile_activity: yes
           plugin_profile_activity_base: home, repos, activity
           plugin_profile_activity_days: 14
-          plugin_wakatime:
-          plugin_wakatime_user: johansarria
-          config_timezone: America/Bogota
           plugin_lines: yes
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
           plugin_isocalendar: yes
           plugin_calendars: yes
           plugin_calendars_base: repositories, commits
@@ -44,4 +38,5 @@ jobs:
           plugin_people_types: followers, following
           plugin_people_limit: 50
           plugin_people_size: 28
+          config_timezone: America/Bogota
           committer_message: Update metrics
