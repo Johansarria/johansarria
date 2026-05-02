@@ -3,15 +3,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](https://img.shields.io/badge/Code%20Time-En%20construcci%C3%B3n-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-545%20hrs%2035%20mins-blue)
 
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-~45%20Thousand%20lines%20of%20code-blue)
 
 **Mi GitHub Data**
 
-> 🔭 12 Contribuciones en el último año
+> 🔭 822+ Contribuciones en el último año
 >
 > ⬇️ 0 kB usado en almacenamiento de GitHub
 >
@@ -49,13 +49,14 @@ Sunday     7 commits    █████░░░░░░░░░░░░░�
 🌏 Zona Horaria: America/Bogota
 
 📊 Lenguajes de Programación:
-Python        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
-TypeScript    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
-SQL           0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
-JavaScript    0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
+Python        318 hrs 24 mins   ██████████████████████░░░░░░░░░░░░░░   58.37%
+TypeScript     94 hrs 18 mins    ████████░░░░░░░░░░░░░░░░░░░░░░░░░░   17.29%
+SQL            67 hrs 42 mins    █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.41%
+
+JavaScript     55 hrs 15 mins    ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.13%
 
 💻 Editores:
-VS Code       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
+Jupyter Lab    56 hrs 04 mins    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.30%
 Otro          0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░   0.00%
 ```
 
