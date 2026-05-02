@@ -15,7 +15,7 @@ jobs:
         with:
           filename: github-metrics.svg
           user: johansarria
-          token: ${{ secrets.METRICS_TOKEN }}
+                    token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories, metadata, followers
           plugin_followup: yes
           plugin_followup_sections: repositories
