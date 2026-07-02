@@ -1,6 +1,16 @@
 ![Metrics](https://github.com/Johansarria/Johansarria/blob/main/github-metrics.svg)
 ![GitHub Actions status](https://img.shields.io/github/actions/workflow/status/Johansarria/Johansarria/metrics.yml?style=for-the-badge&logo=github-action)
 
+---
+
+## 👋 Sobre Mí
+
+Ingeniero de datos y desarrollador full-stack enfocado en **automatización, AIOps y sistemas de datos** para el sector telecomunicaciones. Construyo pipelines ETL inteligentes, dashboards de monitoreo NOC/SaaS y herramientas de auditoría de infraestructura de red.
+
+🔭 **Enfoque actual:** Automatización ISP, liquidación de infraestructura (postes/ductos), análisis predictivo de riesgos en redes de fibra óptica, y plataformas de comercio electrónico de alto rendimiento.
+
+---
+
 <!--START_SECTION:waka-->
 ![Code Time](https://img.shields.io/badge/Code%20Time-545%20hrs%2035%20mins-blue)
 
@@ -14,7 +24,7 @@
 > 💾 0 kB usado en almacenamiento de GitHub
 
 >
-> 💼 Buscando oportunidades
+> 💼 Abierto a oportunidades
 >
 > 🤓 9 Repositorios Públicos
 >
@@ -25,10 +35,11 @@
 - Python • Machine Learning • Deep Learning
 - TensorFlow • PyTorch • Scikit-learn • Keras
 - Pandas • NumPy • Matplotlib • Seaborn
-- SQL • Docker • React • TypeScript
-- Apache Spark • BigQuery • AWS
-- Trading algorítmico • Análisis de datos
-- Automatización • n8n • APIs
+- SQL • Docker • Apache Spark • BigQuery • AWS
+- Next.js • React 19 • TypeScript • JavaScript
+- PostGIS • GIS Mapping • FastAPI • n8n
+- Automatización ISP • Análisis de datos • APIs REST
+- Trading algorítmico • ETL • CI/CD
 
 **Soy más productivo los miércoles**
 
@@ -67,18 +78,68 @@ SQL           1 repos       ████████░░░░░░░░░�
 JavaScript    1 repos       ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  11.11%
 ```
 
-**Repositorios destacados**
-
-| Proyecto | Descripción | Tecnología |
-|----------|-------------|-----------|
-| Universal-RecSys | Motor de Recomendaciones ALS con Pipeline ETL | Python |
-| Analisis_SLA | Pipeline ML para predicción de riesgos en telecomunicaciones | Python |
-| FiberMind-Analytics | Pipeline ETL para diagnóstico automatizado de fibras ópticas | Python |
-| ITBOT | Simulador de trading algorítmico con IA | Python |
-
-*Última actualización: 02 de mayo de 2026*
+*Última actualización: 02 de julio de 2026*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johansarria)
 
 *Estos badges se actualizarán automáticamente con WakaTime cuando lo conectes a tu cuenta.*
 <!--END_SECTION:waka-->
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnología | Área |
+|----------|-------------|-----------|------|
+| [DeaMap](https://github.com/Johansarria/DeaMap) | Mapa colaborativo de desfibriladores (AED). **35K+ verificaciones**, usado por servicios de emergencia en España. | Next.js, PostGIS, Prisma, Vercel | 🌍 GIS / Salud |
+| [Onnet](https://github.com/Johansarria/Onnet) | Liquidador y Auditor de Infraestructura de red (postes/ductos). Pipeline ETL + dashboard Streamlit para liquidación masiva con escenarios de compartición. | Python, Streamlit, Pandas, Excel | 📡 Telecom / AIOps |
+| [FiberMind-Analytics](https://github.com/Johansarria/FiberMind-Analytics) | Pipeline ETL inteligente para diagnóstico automatizado de fibras ópticas con análisis predictivo. | Python, ML, Pandas, ETL | 📡 Telecom / AIOps |
+| [nexus-gear](https://github.com/Johansarria/nexus-gear) | Nexus Elite Marketplace — plataforma e-commerce premium para atletas profesionales. UI glassmorphism, animaciones Framer Motion. | Next.js 16, React 19, TypeScript, Framer Motion | 🛒 E-commerce |
+| [Analisis_SLA](https://github.com/Johansarria/Analisis_SLA) | Pipeline ML (XGBoost/LSTM) para predicción de riesgos de incumplimiento SLA en telecomunicaciones. | Python, XGBoost, LSTM, ML | 📡 Telecom / ML |
+| [Universal-RecSys](https://github.com/Johansarria/Universal-RecSys) | Motor de Recomendaciones ALS con Pipeline ETL completo. Arquitectura modular con FastAPI + React. | Python, FastAPI, ALS, React, Docker | 🤖 ML / RecSys |
+| [ITBOT](https://github.com/Johansarria/ITBOT) | Simulador autónomo de trading algorítmico con entorno de backtesting y estrategias basadas en IA. | Python, Backtesting, IA Financiera | 💹 Trading |
+| [ia-isp-proyectos](https://github.com/Johansarria/ia-isp-proyectos) | Suite profesional para automatización de backups, rotación, checksum y monitoreo remoto vía Telegram en entornos ISP. | Python, Rsync, Telegram API, pytest | 🔧 ISP / DevOps |
+
+---
+
+## 🛠️ Stack Tecnológico
+
+```
+┌─ Data & ML ─────────────────────────────┐
+│  Python · Pandas · NumPy · Scikit-learn  │
+│  XGBoost · TensorFlow · PyTorch · Keras  │
+│  Apache Spark · BigQuery · ALS           │
+├─ Web & Frontend ─────────────────────────┤
+│  Next.js 16 · React 19 · TypeScript      │
+│  Framer Motion · Tailwind · Plotly       │
+├─ Backend & APIs ─────────────────────────┤
+│  FastAPI · REST APIs · JWT Auth          │
+│  Prisma · PostgreSQL · PostGIS           │
+├─ Infra & DevOps ─────────────────────────┤
+│  Docker · CI/CD (GitHub Actions)         │
+│  n8n · Automatización · Vercel           │
+├─ Telecom & GIS ──────────────────────────┤
+│  ETL · SLA Analytics · GIS Mapping       │
+│  Auditoría de infraestructura de red     │
+└──────────────────────────────────────────┘
+```
+
+---
+
+## 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Johansarria&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johansarria&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/johansarria">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johansarria/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
