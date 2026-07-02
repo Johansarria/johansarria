@@ -21,14 +21,14 @@ Ingeniero de datos y desarrollador full-stack enfocado en **automatización, AIO
 **Mi GitHub Data**
 
 > 🔭 822+ Contribuciones en el último año
-> 💾 0 kB usado en almacenamiento de GitHub
+> 💾 Almacenamiento con repositorios privados activos
 
 >
 > 💼 Abierto a oportunidades
 >
-> 🤓 9 Repositorios Públicos
+> 🤓 10 Repositorios Públicos
 >
-> 🔑 0 Repositorios Privados
+> 🔑 6 Repositorios Privados
 
 **Principales habilidades**
 
