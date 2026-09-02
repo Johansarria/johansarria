@@ -15,7 +15,7 @@ Ingeniero de datos y desarrollador full-stack enfocado en **automatización, AIO
 
 | Proyecto | Descripción | Tecnología | Área |
 |----------|-------------|-----------|------|
-| [AUREN AI Sales Agent](https://github.com/Johansarria/auren-ai-sales-agent) | Agente de ventas IA **autónomo en producción real** (case study): Shopify + WhatsApp Business API + Supabase. Recuperación de carritos, guías automáticas, leads con UTM. | Python, Docker, LLMs, WhatsApp Business (WABA) | 🤖 AI Agents |
+| [AUREN AI Sales Agent](https://github.com/Johansarria/auren-ai-sales-agent) | Ecosistema e-commerce **diseñado de punta a punta** + agente de ventas IA autónomo en producción real (case study): tema Shopify a medida, Supabase con RLS, WhatsApp Business API. | Shopify, Python, Supabase, LLMs | 🤖 AI Agents |
 | [Onnet](https://github.com/Johansarria/Onnet) | Liquidador y Auditor de Infraestructura de red (postes/ductos). Pipeline ETL + dashboard Streamlit para liquidación masiva con escenarios de compartición. | Python, Streamlit, Pandas, Excel | 📡 Telecom / AIOps |
 | [FiberMind-Analytics](https://github.com/Johansarria/FiberMind-Analytics) | Pipeline ETL inteligente para diagnóstico automatizado de fibras ópticas con análisis predictivo. | Python, ML, Pandas, ETL | 📡 Telecom / AIOps |
 | [Analisis_SLA](https://github.com/Johansarria/Analisis_SLA) | Pipeline ML (XGBoost/LSTM) para predicción de riesgos de incumplimiento SLA en telecomunicaciones. | Python, XGBoost, LSTM, ML | 📡 Telecom / ML |
