@@ -17,7 +17,6 @@ Ingeniero de datos y desarrollador full-stack enfocado en **automatización, AIO
 |----------|-------------|-----------|------|
 | [Onnet](https://github.com/Johansarria/Onnet) | Liquidador y Auditor de Infraestructura de red (postes/ductos). Pipeline ETL + dashboard Streamlit para liquidación masiva con escenarios de compartición. | Python, Streamlit, Pandas, Excel | 📡 Telecom / AIOps |
 | [FiberMind-Analytics](https://github.com/Johansarria/FiberMind-Analytics) | Pipeline ETL inteligente para diagnóstico automatizado de fibras ópticas con análisis predictivo. | Python, ML, Pandas, ETL | 📡 Telecom / AIOps |
-| [nexus-gear](https://github.com/Johansarria/nexus-gear) | Nexus Elite Marketplace — plataforma e-commerce premium para atletas profesionales. UI glassmorphism, animaciones Framer Motion. | Next.js 16, React 19, TypeScript, Framer Motion | 🛒 E-commerce |
 | [Analisis_SLA](https://github.com/Johansarria/Analisis_SLA) | Pipeline ML (XGBoost/LSTM) para predicción de riesgos de incumplimiento SLA en telecomunicaciones. | Python, XGBoost, LSTM, ML | 📡 Telecom / ML |
 | [Universal-RecSys](https://github.com/Johansarria/Universal-RecSys) | Motor de Recomendaciones ALS con Pipeline ETL completo. Arquitectura modular con FastAPI + React. | Python, FastAPI, ALS, React, Docker | 🤖 ML / RecSys |
 | [ITBOT](https://github.com/Johansarria/ITBOT) | Simulador autónomo de trading algorítmico con entorno de backtesting y estrategias basadas en IA. | Python, Backtesting, IA Financiera | 💹 Trading |
